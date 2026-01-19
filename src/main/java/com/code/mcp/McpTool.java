@@ -1,4 +1,4 @@
-package com.example.codeexpert.mcp;
+package com.code.mcp;
 
 import java.util.Map;
 
